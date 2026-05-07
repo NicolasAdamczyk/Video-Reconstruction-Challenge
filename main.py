@@ -166,7 +166,7 @@ class VideoRestorer:
             out.write(frame)
             
         out.release()
-        logging.info(f"✅ Succès ! Vidéo sauvegardée sous : {self.output_path}")
+        logging.info(f"Succès ! Vidéo sauvegardée sous : {self.output_path}")
 
     def run(self):
         """Exécute l'intégralité du pipeline."""
