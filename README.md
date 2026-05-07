@@ -2,7 +2,7 @@
 
 Ce test technique propose un pipeline algorithmique permettant de restaurer une vidéo corrompue (sans apprentissage profond). Il est capable de retrouver l'ordre chronologique des images et d'éliminer les "parasites" insérés volontairement, tout en minimisant l'empreinte mémoire (Memory-Safe).
 
-## 🚀 Installation & Utilisation
+## Installation & Utilisation
 
 1. Cloner le dépôt et installer les dépendances :
 ```bash
